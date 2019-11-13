@@ -79,6 +79,12 @@ export const ProductTable = styled.table`
       padding: 6px;
     }
   }
+
+  button {
+    background: none;
+    border: 0;
+    padding: 6px;
+  }
 `;
 
 export const Total = styled.div`

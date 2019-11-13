@@ -12,7 +12,9 @@ export default function Home() {
           src="https://static.netshoes.com.br/produtos/tenis-kappa-impact-masculino/02/D24-1738-002/D24-1738-002_detalhe2.jpg?ims=326x"
           alt="Tênis"
         />
-        <strong>Tênis muito legal</strong>
+        <strong>
+          Tênis muito legal com título muito grande que quebra várias linhas
+        </strong>
         <span>R$129,90</span>
 
         <button type="button">
